@@ -1,11 +1,5 @@
-# WARNING!
-
-Install via Setup.bat or else u will have Client Loss!
-
-
 # How to Setup
 Extract it with the Password: MadeByBKA <br> </br>
-Open Setup.bat Then just follow the Instructions
 
 # Features
 Remote Desktop Viewer (With remote click)<br> </br>
